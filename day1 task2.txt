@@ -1,0 +1,9 @@
+				Netflix
+1.To introduce live channels:
+ This would be the best criteria for the development in netflix.if we include live channels then its popularity will increase for the app version as well as for the site version.
+
+
+2.it should have a time boundation part controlled by the parents:
+As the child is watching movies for more time then the parents can set a limit with can then close the app.
+
+3.to include aadhar number for the adult content policy.
